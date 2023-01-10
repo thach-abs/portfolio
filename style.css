@@ -7,4 +7,3 @@ blockquote:before,blockquote:after,q:before,q:after { content: ''; content: none
 table { border-collapse: collapse; border-spacing: 0;}
 
 /* font */
-font-family: 'Work Sans', sans-serif;
