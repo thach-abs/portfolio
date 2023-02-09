@@ -8,9 +8,8 @@ body {
 
 
 img [src="media/headshot.jpeg"] {
-  display: inline;
-  width: 400px;
-  height: 700px;
+  width: 20;
+  height: 40;
 }
 
 
