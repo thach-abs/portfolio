@@ -7,9 +7,10 @@ body {
 /*media queries and flex boxes*/
 
 
-.img {
-  width: 20;
-  height: 40;
+img {
+  display: block;
+  width: 80%;
+  height: auto;
 }
 
 
