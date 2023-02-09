@@ -7,7 +7,7 @@ body {
 /*media queries and flex boxes*/
 
 
-img [src="media/headshot.jpeg"] {
+img {
   width: 20;
   height: 40;
 }
