@@ -33,17 +33,17 @@ nav ul a:hover {
 }
 
 @media all and (max-width: 600px) {
-  nav {
+  nav ul {
     flex-flow: column wrap;
     padding: 0;
   }
-  nav a { 
+  nav ul a { 
     text-align: center; 
     padding: 10px;
     border-top: 1px solid rgba(255, 255, 255,0.3); 
     border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
   }
-  nav li:last-of-type a {
+  nav ul li:last-of-type a {
     border-bottom: none;
   }
 }
