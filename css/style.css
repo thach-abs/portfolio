@@ -1,15 +1,10 @@
 
-body {
-  background-color: #f5f5dc;
-  padding-top: 50px;
-  margin-left: 0%;
-  padding: 20px;
-}
+
 /* font */
 
 /*nav bar*/
 nav ul {
-  position: sticky; /* Set the navbar to fixed position */
+  position: fixed; /* Set the navbar to fixed position */
   top: 0; /* Position the navbar at the top of the page */
   width: 100%; /* Full width */
   display: flex;
@@ -18,6 +13,7 @@ nav ul {
   
   list-style: none;
   margin: 0; 
+  padding: 0;
   background: #B9A7BB;
 }
 
