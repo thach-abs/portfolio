@@ -15,14 +15,14 @@ nav ul {
   background: deepskyblue;
 }
 
-nav a {
+nav ul a {
   text-decoration: none;
   display: block;
   padding: 1em;
   color: white;
 }
 
-nav a:hover {
+nav ul a:hover {
   background: #1565C0;
 }
 
