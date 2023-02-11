@@ -16,7 +16,7 @@ nav ul {
   
   list-style: none;
   margin: 0; 
-  background: deepskyblue;
+  background: #B9A7BB;
 }
 
 nav ul a {
@@ -27,7 +27,7 @@ nav ul a {
 }
 
 nav ul a:hover {
-  background: #1565C0;
+  background: #341948;
 }
 
 @media all and (max-width: 800px) {
