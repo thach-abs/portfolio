@@ -1,56 +1,8 @@
 
 /*nav bar*/ /*need to get left margin filled by nav*/ /*TRBL*/
-nav ul {
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: flex-start;
-  
-  list-style: none;
-  margin: 0; 
-  padding: 0;
-  background: #B9A7BB;
-}
-
-nav ul a {
-  text-decoration: none;
-  display: block;
-  padding: 1em;
-  color: white;
-}
-
-nav ul a:hover {
-  background: #341948;
-}
-
-@media all and (max-width: 800px) {
-  nav {
-    justify-content: space-around;
-  }
-}
-
-@media all and (max-width: 600px) {
-  nav ul {
-    flex-flow: column wrap;
-    padding: 0;
-  }
-  nav ul a { 
-    text-align: center; 
-    padding: 10px;
-    border-top: 1px solid rgba(255, 255, 255,0.3); 
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
-  }
-  nav ul li:last-of-type a {
-    border-bottom: none;
-  }
-  body {
-    margin-top: 175px;
-  }
-}body {
+body {
   background-color: #f5f5dc;
-  margin: 50px,;
+  margin-top: 50px;
 }
 /* font */
 
