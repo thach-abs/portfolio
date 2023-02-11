@@ -1,7 +1,7 @@
 
 body {
   background-color: #f5f5dc;
-  padding-top: 50px;
+  margin-top: 50px;
 }
 /* font */
 
@@ -44,7 +44,7 @@ nav ul a:hover {
   }
   nav ul a { 
     text-align: center; 
-    padding: 10px;
+    padding: 20px, 20px, 20px, 100px;
     border-top: 1px solid rgba(255, 255, 255,0.3); 
     border-bottom: 1px solid rgba(0, 0, 0, 0.1); 
   }
