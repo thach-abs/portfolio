@@ -101,3 +101,8 @@ img.headshot {
     font-size: 35px;
     cursor: pointer;
   }
+/* card decor */
+.list-group-item {
+  background-color: #60717C;
+  color: white;
+}
